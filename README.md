@@ -8,4 +8,4 @@ This is a demo for sharing ideas around communication
 * Three
 
 ### Gist
-This is my first gist ![image](https://user-images.githubusercontent.com/77249186/125827014-3fbc68be-474e-4e68-92bb-4db78530c820.png)
+This is my first gist! https://gist.github.com/amercha1/88b95796113dac9f335b7fb9a6cacb1c
